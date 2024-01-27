@@ -1,0 +1,1 @@
+${String.format("%.2f",(produto.preco))}
